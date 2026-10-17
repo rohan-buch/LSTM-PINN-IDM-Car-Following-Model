@@ -43,12 +43,6 @@ $$
 a_{\mathrm{IDM}} = a_{\max}\left[1-\left(\frac{v}{v_0}\right)^4-\left(\frac{s^*}{s}\right)^2\right]
 $$
 
-
-```math
-E = mc^2
-```
-
-
 where $s^*$ represents the desired dynamic spacing.
 
 The total training loss combines the prediction error and physics-based error:
